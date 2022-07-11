@@ -1,4 +1,4 @@
-# Discord_bot
+# Discord_bot (Kretbot)
 I was trying to create bot to Discord. Few months ago it works, but now I must check few things.
 
 Kretbot have prefix <3. It should
